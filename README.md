@@ -13,5 +13,5 @@
   - Android  
 
 ## How I deploy my apps
- I use docker to deploy my apps 🐳
+ I use docker and AWS to deploy my apps 🐳
   
