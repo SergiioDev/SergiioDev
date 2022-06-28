@@ -8,7 +8,6 @@ Starting learning programming was the best decision that I ever made, since then
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [sergi.aguilarr@gmail.com](mailto:sergi.aguilarr@gmail.com)
-* 🧠  I'm learning cloud development
 
 ### Skills
 
