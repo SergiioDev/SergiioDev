@@ -1,10 +1,10 @@
 Software Engineer
 ------------------
 
-Starting learning programming was the best decision that I ever made, since then I've been building products and exploring new technologies
+Starting learning programming was the best decision that I ever made, since then I've been building cool projects and exploring new technologies
 
 * 🌍  I'm based in Barcelona
-* ✉️  You can contact me at [sergi13456@gmail.com](mailto:sergi13456@gmail.com)
+* ✉️  You can contact me at [sergi13456@hotmail.es](mailto:sergi13456@hotmail.es)
 
 ### Skills
 
