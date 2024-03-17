@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
-<h3 align="center">A software engineer passionate about microservices, cloud infrastructure, scalability and obersvality</h3>
+<h3 align="center">A software engineer passionate about microservices, cloud infrastructure, scalability and observability</h3>
 
 - 📫 How to reach me **sergi13456@hotmail.es**
 
