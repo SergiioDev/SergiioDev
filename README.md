@@ -12,7 +12,8 @@ I'm a passionate Backend Engineer with experience building scalable microservice
 
 ---
 
-# 📐 Design Patterns & Best Practices That I've Used
+# 📐 Design Patterns & Best Practices
+**Design patterns and best practices that I've used.**
 
 - Domain-Driven Design (DDD)
 - Hexagonal Architecture
