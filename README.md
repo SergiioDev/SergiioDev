@@ -26,8 +26,8 @@ I'm a passionate Backend Engineer with experience building scalable microservice
 
 ## 🛠️ Skills
 
-- **Languages**: Kotlin, Java, Go, Python
-- **Frameworks**: Spring Boot, Ktor, FastAPI
+- **Languages**: Kotlin, Java, Go
+- **Frameworks**: Spring Boot, Ktor
 - **Databases**: PostgreSQL & MongoDB
 - **Cloud & Tools**: AWS, Kubernetes, Kafka, RabbitMQ, Git, CI/CD
 - **Testing**: JUnit, Unit & Integration Testing, Load/Stress Testing
