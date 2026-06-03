@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sergi Aguilar
 
-**Senior Backend Engineer** from Barcelona, Spain 
-📧 sergi13456@hotmail.es | 📱 +34 610 343 493  
+**Senior Backend Engineer** from Barcelona, Spain.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergi-aguilar-ruiz/)
 
 ---
@@ -26,7 +25,7 @@ I'm a passionate Backend Engineer with experience building scalable microservice
 
 ## 🛠️ Skills
 
-- **Languages**: Kotlin, Java, Go
+- **Languages**: Kotlin, Typescript & Python.
 - **Frameworks**: Spring Boot, Ktor
 - **Databases**: PostgreSQL & MongoDB
 - **Cloud & Tools**: AWS, Kubernetes, Kafka, RabbitMQ, Git, CI/CD
@@ -36,5 +35,5 @@ I'm a passionate Backend Engineer with experience building scalable microservice
 
 ## 📫 Contact Me
 
-- Email: **sergi13456@hotmail.es**
+- Email: **sergi.aguilarr@gmail.com**
 - LinkedIn: [linkedin.com/in/sergi-aguilar-ruiz](https://www.linkedin.com/in/sergi-aguilar-ruiz/)
