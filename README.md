@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sergi Aguilar
+# 👋 Hi, I'm Sergi
 
 **Senior Backend Engineer** from Barcelona, Spain.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergi-aguilar-ruiz/)
